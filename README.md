@@ -26,6 +26,7 @@ The Design Studio provides an immersive, desktop-first workspace with real-time 
 5. **Interactive Refinement Chat**: Ask the **Lead Architect** to modify the specs directly (e.g., *"Change the database to PostgreSQL and add a password hashing algorithm"*). The Lead Architect automatically assesses the request, coordinates only the required specialists, and generates a refined version.
 6. **State Resiliency (Resume & Recovery)**: If an agent run is interrupted or fails midway, click **"Resume From Last Successful Agent"** to pick up exactly where compilation left off without re-running previous stages.
 7. **Import/Export Systems**: Export complete specification models as portable JSON session packs, or import previously saved designs to continue editing or refining.
+
 <img width="406" height="278" alt="Screenshot 2026-06-29 163845" src="https://github.com/user-attachments/assets/82dad270-33bd-4e6d-a52b-7e5b72e99e3d" /><img width="296" height="360" alt="Screenshot 2026-06-29 162911" src="https://github.com/user-attachments/assets/79bf8f59-4b4a-445b-af50-194c971e2641" />
 <img width="292" height="325" alt="Screenshot 2026-06-29 162918" src="https://github.com/user-attachments/assets/45bd9e33-d2e1-4c3e-93b5-adc37cdbda52" />
 
