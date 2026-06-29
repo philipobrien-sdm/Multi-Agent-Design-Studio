@@ -1,8 +1,12 @@
 # Multi-Agent Design Studio 🚀
+<img width="1301" height="784" alt="Screenshot 2026-06-29 163823" src="https://github.com/user-attachments/assets/e708792a-79ba-4664-a385-7cf5c2f21c34" />
 
 Collaborative multi-agent system that transforms product ideas into structured, build-ready "vibe-coding" specification packs.
 
 Designed for developer velocity, the **Multi-Agent Design Studio** orchestrates multiple specialized, cooperative AI agents (System Architect, UX Designer, Algorithmic Engineer, Prompt Engineer, and Alignment/Safety Board) to draft, review, debate, and compile clean software specifications alongside code scaffolds.
+
+View a smple Specification here:[DesignSpecification_“Briefly”_is_a__v6.html](https://github.com/user-attachments/files/29471997/DesignSpecification_.Briefly._is_a__v6.html)
+
 
 ---
 
@@ -21,6 +25,9 @@ The Design Studio provides an immersive, desktop-first workspace with real-time 
 5. **Interactive Refinement Chat**: Ask the **Lead Architect** to modify the specs directly (e.g., *"Change the database to PostgreSQL and add a password hashing algorithm"*). The Lead Architect automatically assesses the request, coordinates only the required specialists, and generates a refined version.
 6. **State Resiliency (Resume & Recovery)**: If an agent run is interrupted or fails midway, click **"Resume From Last Successful Agent"** to pick up exactly where compilation left off without re-running previous stages.
 7. **Import/Export Systems**: Export complete specification models as portable JSON session packs, or import previously saved designs to continue editing or refining.
+<img width="406" height="278" alt="Screenshot 2026-06-29 163845" src="https://github.com/user-attachments/assets/82dad270-33bd-4e6d-a52b-7e5b72e99e3d" /><img width="296" height="360" alt="Screenshot 2026-06-29 162911" src="https://github.com/user-attachments/assets/79bf8f59-4b4a-445b-af50-194c971e2641" />
+<img width="292" height="325" alt="Screenshot 2026-06-29 162918" src="https://github.com/user-attachments/assets/45bd9e33-d2e1-4c3e-93b5-adc37cdbda52" />
+
 
 ---
 
