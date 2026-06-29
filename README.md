@@ -1,11 +1,12 @@
 # Multi-Agent Design Studio 🚀
-<img width="1301" height="784" alt="Screenshot 2026-06-29 163823" src="https://github.com/user-attachments/assets/e708792a-79ba-4664-a385-7cf5c2f21c34" />
+<img width="1261" height="895" alt="Screenshot 2026-06-29 164253" src="https://github.com/user-attachments/assets/0adf46ef-466a-4a9c-9108-7514df0e771a" />
+
 
 Collaborative multi-agent system that transforms product ideas into structured, build-ready "vibe-coding" specification packs.
 
 Designed for developer velocity, the **Multi-Agent Design Studio** orchestrates multiple specialized, cooperative AI agents (System Architect, UX Designer, Algorithmic Engineer, Prompt Engineer, and Alignment/Safety Board) to draft, review, debate, and compile clean software specifications alongside code scaffolds.
 
-View a smple Specification here:[DesignSpecification_“Briefly”_is_a__v6.html](https://github.com/user-attachments/files/29471997/DesignSpecification_.Briefly._is_a__v6.html)
+View a smple Specification here (Created locally with a Gemma 4 7B model):[DesignSpecification_“Briefly”_is_a__v6.html](https://github.com/user-attachments/files/29471997/DesignSpecification_.Briefly._is_a__v6.html)
 
 
 ---
