@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Agent Design Studio",
+  "description": "Collaborative multi-agent system that transforms ideas into structured, build-ready vibe-coding spec packs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
